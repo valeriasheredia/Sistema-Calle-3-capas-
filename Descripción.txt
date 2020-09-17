@@ -1,1 +1,7 @@
+Breve descripcion: 
+Año de realizacion 2107. Segunda version de la tesis de atletismo (solo se realizo la parte de competencias de calle). 
+
+Sistema en 3 capas, sql server, crystal reports
+
+
 
